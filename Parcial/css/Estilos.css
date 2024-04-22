@@ -1,0 +1,33 @@
+header{
+    background-color: #333;
+    justify-content: space-between;
+}
+
+section{
+
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    
+    
+    
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+
+
+}
+
+p{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+
+img{
+    width: 200px;
+}
